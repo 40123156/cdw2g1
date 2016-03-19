@@ -1,0 +1,19 @@
+git config --global user.name "name"
+
+git config --global user.email name@example.com
+
+git clone [--]
+
+git checkout [--]               #切換至[--]分支
+
+修改檔案
+
+git status                          #確認哪些檔案正在等待git add
+
+git add .
+
+git status                          #若無紅字代表正常
+
+git commit -m "message"
+
+git push
