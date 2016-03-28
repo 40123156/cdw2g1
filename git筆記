@@ -4,7 +4,7 @@ git config --global user.email name@example.com
 
 git clone [--]
 
-git checkout [--]               #切換至[--]分支
+git checkout [--]                   #切換至[--]分支
 
 修改檔案
 
