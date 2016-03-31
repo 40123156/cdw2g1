@@ -5,7 +5,7 @@
 # 相關連結
 
 40123156/cdw2g1 (我們組的倉儲) : 
-就是這裡 :)
+就是這裡
 
 2015fallhw/cdw2 (班級的倉儲) : 
 https://github.com/2015fallhw/cdw2
