@@ -1,19 +1,19 @@
-git config --global user.name "name"
+git config --global user.name "name"                # name 是你的學號
 
-git config --global user.email name@example.com
+git config --global user.email name@example.com     # name@example.com 是你的信箱
 
 git clone [--]
 
-git checkout [--]                   #切換至[--]分支
+git checkout [--]                                   #切換至 [--] 分支
 
 修改檔案
 
-git status                          #確認哪些檔案正在等待git add
+git status                                          #確認哪些檔案正在等待 git add
 
-git add .
+git add -A                                          #將所有新增,修改,刪除的檔案 git add         # -A 意即 -all
 
-git status                          #若無紅字代表正常
+git status                                          #若無紅字代表正常
 
-git commit -m "message"
+git commit -m "message"                             # -m 意即快速提交
 
 git push
