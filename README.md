@@ -7,7 +7,7 @@
 我們組的 OpenShift : 
 http://cdw2bg1-40123156.rhcloud.com/
 
-Source Code : 
+我們組的 OpenShift 的 Source Code : 
 ssh://5705b6df0c1e6692f300003b@cdw2bg1-40123156.rhcloud.com/~/git/cdw2bg1.git/
 
 40123156/cdw2g1 (我們組的倉儲) : 
