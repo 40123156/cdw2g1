@@ -1,7 +1,7 @@
 =========================== 更動檔案前 ===========================
-
-`git config --global user.name "name"`
-`git config --global user.email name@example.com`     <tab> name@example.com 是你的信箱
+設定 git config
+`git config --global user.name "name"
+git config --global user.email name@example.com`
 
 `git clone [--]`
 
