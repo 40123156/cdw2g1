@@ -3,6 +3,7 @@
 設定 git config
 
 `git config --global user.name "name"
+
 git config --global user.email name@example.com`
 
 `git clone [--]`
