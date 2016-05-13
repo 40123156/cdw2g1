@@ -1,6 +1,6 @@
 =========================== 更動檔案前 ===========================
 
-`git config --global user.name "name"`                <tab> name 是你的學號
+`git config --global user.name "name"`
 `git config --global user.email name@example.com`     <tab> name@example.com 是你的信箱
 
 `git clone [--]`
