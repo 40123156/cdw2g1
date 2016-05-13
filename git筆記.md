@@ -1,4 +1,4 @@
-`git config --global user.name "name"`                # name 是你的學號
+`git config --global user.name "name"`                <tab> name 是你的學號
 
 `git config --global user.email name@example.com`     # name@example.com 是你的信箱
 
