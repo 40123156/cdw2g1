@@ -6,13 +6,13 @@ git clone [--]
 
 git checkout [--]                                   # 切換至 [--] 分支
 
-修改檔案
+更動檔案
 
-git status                                          # 確認哪些檔案正在等待 git add
+git status                                          # 紅字代表未 add 的檔案
 
-git add -A                                          # 將所有新增,修改,刪除的檔案 git add         # -A 意即 --all
+git add -A                                          # add 全部更動的檔案         # -A 意即 --all
 
-git status                                          # 若無紅字代表正常
+git status                                          # 綠字代表已 add 的檔案
 
 git commit -m "message"                             # -m 意即快速提交
 
